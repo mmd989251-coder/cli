@@ -1,4 +1,4 @@
-# hcloud: Command-line interface for Hetzner Cloud
+interface for Hetzner Cloud
 
 [![Release](https://img.shields.io/github/v/release/hetznercloud/cli)](https://github.com/hetznercloud/cli/releases/latest)
 ![Go Version](https://img.shields.io/github/go-mod/go-version/hetznercloud/cli/main?label=Go)
@@ -29,10 +29,6 @@ Experimental features have different levels of maturity (e.g. experimental, alph
 based on the maturity of the upstream API.
 
 While experimental features will be announced in the release notes, you can also find
-whether a command is experimental in its help text. Using experimental commands will show a warning
-when running them. You can suppress this warning by enabling the `no-experimental-warnings` option.
+whether a command is experimental in its help text. 
 
-## License
-
-MIT license
-
+MITinterface
